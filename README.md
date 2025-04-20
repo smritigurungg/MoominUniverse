@@ -13,7 +13,7 @@ Data will be primarily collected from the official Moomin website and transcript
 
 Edges will represent the relationships between Moomin characters, weighted based on the strength and type of their connection (e.g., familial, friendly, antagonistic).
 
-The nodes will be individual characters within the Moomin universe, such as Moomintroll, Snufkin, Little My, Moominmamma, and other figures.
+The nodes will be individual characters within the Moomin universe, such as the Moomintroll, Snufkin, Little My, Moominmamma, and others.
 
 ## Features
 
